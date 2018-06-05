@@ -1,6 +1,6 @@
-# ER190C Homeworks in this folder.
+# ER190C Homeworks and Labs in this folder.
 
-Questions for modules team and Eric.
-1. Is autograding an option.  Any recommendations otherwise.
-2. How to set up datahub.
-3. 
+Duncan Callaway is developing labs.
+
+Berkeley modules team is developing homeworks.
+
