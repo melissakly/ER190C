@@ -1,0 +1,2 @@
+# ER190C HW9
+This HW picks up where HW6 left off.  Here we build new models with larger numbers of features and run Ridge and Lasso to tune the bias variance tradeoff.  Now we work with the "all model building" data set and choose which features we want to include, then compare to the features that Novotny ultimately chose.  

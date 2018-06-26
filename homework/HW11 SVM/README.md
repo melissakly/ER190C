@@ -1,0 +1,2 @@
+# ER190C
+In this last homework we explore using support vector machines (rather than classification trees, which we used in the second-to-last homework) to predict environmental conditions in communities.  
