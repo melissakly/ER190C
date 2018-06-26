@@ -1,2 +1,2 @@
-# ER190C HW6
+# ER190C HW5
 In this homework I want student to start working with land use regression tools.  There is a very nice data set provided by Julian Marshall from U Wash that I used in my class last Fall.  We'll use it again here to explore basic ideas for regularization and cross validation
